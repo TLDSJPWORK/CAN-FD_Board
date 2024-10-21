@@ -1,0 +1,2 @@
+# CAN-FD_Board
+MCP2518 + MCP2562FD CAN FD Busモジュール
